@@ -1,9 +1,7 @@
-# Fabric Example Mod
+# Boat Item Frame Fix
 
-## Setup
-
-For setup instructions please see the [fabric documentation page](https://docs.fabricmc.net/develop/getting-started/setting-up) that relates to the IDE that you are using.
+Recently I found out that you now break item frames with boats. My friends thought that this is kinda cringe, so I fixed that. I guess this relates to [MC-154651](https://bugs.mojang.com/browse/MC/issues/MC-154651) 
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This mod is available under the MIT license. Feel free to learn from it and incorporate it in your own projects.
