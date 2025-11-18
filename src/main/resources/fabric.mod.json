@@ -11,9 +11,9 @@
 		"sources": "https://github.com/JustS-js/Fix-MC154651"
 	},
 	"license": "MIT",
-	"environment": "server",
+	"environment": "*",
 	"entrypoints": {
-		"server": [
+		"main": [
 			"net.just_s.BoatItemFrameFixMod"
 		]
 	},
