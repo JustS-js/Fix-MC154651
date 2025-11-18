@@ -11,6 +11,7 @@
 		"sources": "https://github.com/JustS-js/Fix-MC154651"
 	},
 	"license": "MIT",
+	"icon": "assets/boatframefix/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
